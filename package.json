@@ -1,0 +1,25 @@
+{
+  "name": "vision-openfin-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Sandor",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.0",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "uuid": "^3.0.1",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1"
+  }
+}
